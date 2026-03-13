@@ -110,8 +110,8 @@ Buat sebuah class dan beri nama Percabangan dan Jalankan program nya untuk melih
 #### Screenshoot Hasil
 ![img_12.png](img_12.png)
 
-#### Latihan - LuasPersiPanjang
-![img_13.png](img_13.png)
+#### Latihan - GenapGanjil
+![img_14.png](img_14.png)
 
 #### Analisa dan Pembahasan
 1. Percabangan digunakan untuk mengambil keputusan dalam program berdasarkan kondisi tertentu.
@@ -200,9 +200,9 @@ Practice Problem:
 ---
 
 ## 5. Referensi
-https://java.unisbadri.com/basic/variable/
-https://rpl.upi.edu/memahami-konsep-dasar-pemrograman-java-untuk-pemula/
-https://p2dpt.uma.ac.id/dasar-dasar-pemrograman-java
-https://sis.binus.ac.id/bentuk-bentuk-perulangan-pada-java
+- https://java.unisbadri.com/basic/variable/
+- https://rpl.upi.edu/memahami-konsep-dasar-pemrograman-java-untuk-pemula/
+- https://p2dpt.uma.ac.id/dasar-dasar-pemrograman-java
+- https://sis.binus.ac.id/bentuk-bentuk-perulangan-pada-java
 
 ---
