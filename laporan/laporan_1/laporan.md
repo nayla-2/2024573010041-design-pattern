@@ -31,7 +31,7 @@ Untuk memulai pemrograman Java, Anda perlu:
 6. Jalankan program dengan menekan tombol segitiga hijau seperti ditunjukkan pada lingkaran biru pada gambar dibawah ini.
 
 #### Screenshoot Hasil
-![img.png](img.png)
+![img.png](gambar/img.png)
 
 #### Analisa dan Pembahasan
 Pada praktikum ini dilakukan pembuatan program sederhana menggunakan beberapa tipe data. Variabel digunakan untuk menyimpan informasi seperti nama, umur, dan tinggi badan.
@@ -49,10 +49,10 @@ Variabel digunakan untuk menyimpan data dalam program. Setiap variabel memiliki 
 #### Langkah Praktikum
 1. Buat sebuah class baru dengan nama Variable dan Jalankan program nya untuk melihat hasil.
 #### Screenshoot Hasil
-![img_1.png](img_1.png)
+![img_1.png](gambar/img_1.png)
 
 #### Latihan - DataDiri
-![img_2.png](img_2.png)
+![img_2.png](gambar/img_2.png)
 
 #### Analisa dan Pembahasan
 1. Variabel digunakan untuk menyimpan data dalam program Java.
@@ -71,10 +71,10 @@ Operator digunakan untuk melakukan operasi pada variabel dan nilai. Jenis operat
 #### Langkah Praktikum
 Buat sebuah class baru dengan nama Operator dan Jalankan program nya untuk melihat hasil.
 #### Screenshoot Hasil
-![img_3.png](img_3.png)
+![img_3.png](gambar/img_3.png)
 
 #### Latihan - LuasPersiPanjang
-![img_4.png](img_4.png)
+![img_4.png](gambar/img_4.png)
 
 #### Analisa dan Pembahasan
 1. Operator adalah simbol yang digunakan untuk melakukan operasi terhadap variabel atau nilai dalam program.
@@ -108,10 +108,10 @@ default:
 #### Langkah Praktikum
 Buat sebuah class dan beri nama Percabangan dan Jalankan program nya untuk melihat hasil.
 #### Screenshoot Hasil
-![img_12.png](img_12.png)
+![img_12.png](gambar/img_12.png)
 
 #### Latihan - GenapGanjil
-![img_14.png](img_14.png)
+![img_14.png](gambar/img_14.png)
 
 #### Analisa dan Pembahasan
 1. Percabangan digunakan untuk mengambil keputusan dalam program berdasarkan kondisi tertentu.
@@ -140,15 +140,15 @@ do {
 #### Langkah Praktikum
 Buat sebuah class dengan nama Perulangan dan Jalankan program nya untuk melihat hasil.
 #### Screenshoot Hasil
-![img_5.png](img_5.png)
+![img_5.png](gambar/img_5.png)
 
 #### Latihan - GanjilFor
-![img_6.png](img_6.png)
+![img_6.png](gambar/img_6.png)
 
 #### Latihan - GanjilWhile
-![img_7.png](img_7.png)
+![img_7.png](gambar/img_7.png)
 #### Latihan - GanjilDoWhile
-![img_8.png](img_8.png)
+![img_8.png](gambar/img_8.png)
 
 #### Analisa dan Pembahasan
 1. Perulangan digunakan untuk menjalankan blok kode secara berulang selama kondisi tertentu masih terpenuhi.
@@ -168,15 +168,15 @@ Practice Problem:
 #### Langkah Praktikum
 1. Buat sebuah class baru dan beri nama Factorial dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 #### Screenshoot Hasil
-![img_9.png](img_9.png)
+![img_9.png](gambar/img_9.png)
 
 2. Buat sebuah class  dan beri nama Prima dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 #### Screenshoot Hasil
-![img_10.png](img_10.png)
+![img_10.png](gambar/img_10.png)
 
 3. Buat sebuah class dan beri nama Segitiga dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
 #### Screenshoot Hasil
-![img_11.png](img_11.png)
+![img_11.png](gambar/img_11.png)
 
 #### Analisa dan Pembahasan
 1. Program Factorial digunakan untuk menghitung hasil perkalian bilangan dari 1 sampai suatu bilangan tertentu.
