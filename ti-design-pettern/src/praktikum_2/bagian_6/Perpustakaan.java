@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class Perpustakaan {
     // Atribut (private)
     private ArrayList<Buku> daftarBuku;
-
     // Constructor
     public Perpustakaan() {
         daftarBuku = new ArrayList<>();

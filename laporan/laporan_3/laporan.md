@@ -1,4 +1,4 @@
-# Laporan Modul 2: 
+# Laporan praktikum 3: Review 4 Pillar OOP 
 **Mata Kuliah:** [Parikum Desain Pattern]
 **Nama:** [NAYLA RAMADHANI]  
 **NIM:** [2024573010041]  
@@ -10,8 +10,9 @@
 #### OOP merupakan paradigma pemrograman yang berfokus pada objek sebagai representasi dari data dan fungsi dalam sebuah program.
 Dalam praktikum ini, dipelajari beberapa konsep utama OOP seperti class dan object, encapsulation, inheritance, polymorphism, abstraction, serta composition. Konsep-konsep tersebut diterapkan melalui pembuatan berbagai class dan program sederhana menggunakan IntelliJ IDEA.
 Hasil dari praktikum menunjukkan bahwa penggunaan OOP dapat membuat program menjadi lebih terstruktur, modular, mudah dikembangkan, dan mudah dipelihara. OOP juga membantu dalam mengurangi duplikasi kode serta meningkatkan efisiensi dalam pengembangan perangkat lunak.
+
 ## 2. Praktikum_2
-### Praktikum 1 - Pengenalan OOP dan Class-Object
+### bagian_1 - Pengenalan OOP dan Class-Object
 #### Dasar Teori
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang berorientasi pada objek, di mana setiap objek merepresentasikan entitas dunia nyata yang memiliki atribut (data) dan method (fungsi).
 Dalam OOP, terdapat dua konsep dasar utama, yaitu:
@@ -45,7 +46,7 @@ Hasil analisa:
 3. Program menjadi lebih terstruktur dibandingkan metode prosedural
 Praktikum ini merupakan dasar penting sebelum mempelajari konsep OOP lainnya.
 
-### Praktikum 2 - Encapsulation (Enkapsulasi)
+### bagian_2 - Encapsulation (Enkapsulasi)
 #### Dasar Teori
 Encapsulation adalah konsep OOP yang digunakan untuk menyembunyikan data (atribut) dan hanya memberikan akses melalui method tertentu. Tujuannya adalah untuk melindungi data dari akses langsung dan menjaga integritasnya.
 Encapsulation biasanya diterapkan dengan:
@@ -77,7 +78,7 @@ Hasil analisa:
 * Mempermudah pengelolaan data
 Encapsulation sangat penting dalam menjaga integritas data dalam program.
 
-### Praktikum 3 - Inheritance (Pewarisan) dan Composition (Komposisi)
+### bagian_3 - Inheritance (Pewarisan) dan Composition (Komposisi)
 #### Dasar Teori
 Inheritance adalah proses pewarisan atribut dan method dari superclass ke subclass. Hubungan ini disebut “is-a”.
 Composition adalah hubungan antar class dengan konsep “has-a”, di mana sebuah class memiliki object dari class lain.
@@ -144,7 +145,7 @@ Composition:
 * Memungkinkan kombinasi object
 * Contoh: Mobil memiliki Mesin
 
-### Praktikum 4 - Polymorphism (Polimorfisme)
+### bagian_4 - Polymorphism (Polimorfisme)
 #### Dasar Teori
 Polymorphism adalah konsep OOP yang memungkinkan suatu method memiliki banyak bentuk. Kata “poly” berarti banyak dan “morph” berarti bentuk.
 Polymorphism dibagi menjadi dua jenis:
@@ -156,12 +157,12 @@ Polymorphism dibagi menjadi dua jenis:
 * Polymorphism membuat program menjadi lebih fleksibel dan memungkinkan penggunaan method yang sama dengan perilaku yang berbeda.
 
 #### Langkah Praktikum
-Buat package bagian_4.
-Buat sub-package overriding.
-Buat class Hewan.
-Buat class Kucing dan Anjing yang mewarisi Hewan.
-Override method pada subclass.
-Buat class Main untuk menjalankan program
+1. Buat package bagian_4.
+2. Buat sub-package overriding.
+3. Buat class Hewan.
+4. Buat class Kucing dan Anjing yang mewarisi Hewan.
+5. Override method pada subclass.
+6. Buat class Main untuk menjalankan program
 
 ![img_8.png](gambar/img_8.png)
 
@@ -209,7 +210,7 @@ Hasil analisa:
 * Program menjadi lebih fleksibel dan dinamis
 Polymorphism membantu dalam meningkatkan efisiensi dan keterbacaan kode.
 
-### Praktikum 5 - Abstraction (Abstraksi) | Abstract Class dan Interface
+### bagian_5 - Abstraction (Abstraksi) | Abstract Class dan Interface
 #### Dasar Teori
 Abstract class adalah class yang tidak dapat diinstansiasi secara langsung dan digunakan sebagai dasar bagi class lain. Abstract class dapat berisi:
 * Method abstrak (tanpa implementasi)
@@ -269,7 +270,7 @@ Abstract class digunakan untuk hubungan “is-a” (misalnya: Kucing adalah Hewa
 * Anda ingin memiliki method konkret yang dapat diwarisi oleh subclass.
 * Anda ingin mengontrol state objek melalui atribut non-static.
 
-3. Gunakan Interface Jika:
+2. Gunakan Interface Jika:
 * Anda ingin mendefinisikan kontrak atau kemampuan yang harus diimplementasikan oleh class-class yang berbeda.
 * Anda ingin mendukung multiple inheritance (sebuah class bisa mengimplementasikan banyak interface).
 * Anda ingin menambahkan fungsionalitas tambahan ke class tanpa mengubah struktur class tersebut (menggunakan method default di Java 8+).
@@ -279,12 +280,6 @@ Abstract class digunakan untuk hubungan “is-a” (misalnya: Kucing adalah Hewa
 1. Didalam package bagian_5, buatlah sebuah class baru dan beri nama Main dan jalankan program.
 
 ![img_14.png](gambar/img_14.png)
-
-Hasil analisa:
-* Abstract class digunakan sebagai dasar class lain
-* Interface digunakan sebagai kontrak
-* Program menjadi lebih sederhana dan mudah dikembangkan
-Abstraction membantu dalam menyederhanakan kompleksitas sistem.
 
 #### Latihan - hewan
 1.	Buat package baru untuk latihan.
@@ -298,8 +293,12 @@ Abstraction membantu dalam menyederhanakan kompleksitas sistem.
 ![img_15.png](gambar/img_15.png)
 
 #### Analisa dan Pembahasan
+* Abstract class digunakan sebagai dasar class lain
+* Interface digunakan sebagai kontrak
+* Program menjadi lebih sederhana dan mudah dikembangkan
+Abstraction membantu dalam menyederhanakan kompleksitas sistem.
 
-### Praktikum 6 - Aplikasi Console Pemesanan Tiket Sederhana
+### bagian_6 - Aplikasi Console Pemesanan Tiket Sederhana
 #### Dasar Teori
 seluruh konsep OOP diterapkan dalam sebuah aplikasi nyata.
 Secara teori, OOP memiliki empat pilar utama:
@@ -334,7 +333,7 @@ Dengan menggabungkan semua konsep OOP, program menjadi lebih terstruktur dan ses
 * Batalkan Pesanan: Menghapus pesanan berdasarkan nomor pesanan.
 * Hitung Total Harga: Menghitung total harga setelah diskon (jika ada).
 
-1. Penjelasan Program:
+2. Penjelasan Program:
 * Encapsulation: Atribut seperti jenis dan harga dienkapsulasi dalam class Tiket.
 * Inheritance: TiketReguler dan TiketVIP mewarisi class Tiket.
 * Polymorphism: Method hitungDiskon() di-override di subclass.
@@ -362,4 +361,5 @@ Selain itu, penggunaan OOP memberikan berbagai keuntungan seperti modularitas, k
 * Guru99. (2024). Perbedaan Antara Kelas Abstrak dan Antarmuka di Java. Diakses dari: Interface vs Abstract Class Java
 * Wikipedia. (2025). Interface (Java). Diakses dari: Interface (Java)
 * Caramantap. (2023). Perbedaan Abstract Class dan Interface. Diakses dari: Perbedaan Abstract Class dan Interface
+
 ---

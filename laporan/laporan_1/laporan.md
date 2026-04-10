@@ -1,4 +1,4 @@
-# Laporan Modul 2: Dasar Pemrograman Java
+# Laporan praktikum 1: Dasar Pemrograman Java
 **Mata Kuliah:** Parikum Desain Pattern
 **Nama:** [NAYLA RAMADHANI]  
 **NIM:** [2024573010041]  
@@ -30,8 +30,7 @@ Untuk memulai pemrograman Java, Anda perlu:
 4. Buat Sebuah class didalam package modul_1 dengan cara klik kanan dan pilih New -> Java Class. Beri nama HelloWorld
 6. Jalankan program dengan menekan tombol segitiga hijau seperti ditunjukkan pada lingkaran biru pada gambar dibawah ini.
 
-#### Screenshoot Hasil
-![img.png](gambar/img.png)
+ ![img.png](gambar/img.png)
 
 #### Analisa dan Pembahasan
 Pada praktikum ini dilakukan pembuatan program sederhana menggunakan beberapa tipe data. Variabel digunakan untuk menyimpan informasi seperti nama, umur, dan tinggi badan.
@@ -48,7 +47,7 @@ Variabel digunakan untuk menyimpan data dalam program. Setiap variabel memiliki 
 
 #### Langkah Praktikum
 1. Buat sebuah class baru dengan nama Variable dan Jalankan program nya untuk melihat hasil.
-#### Screenshoot Hasil
+
 ![img_1.png](gambar/img_1.png)
 
 #### Latihan - DataDiri
@@ -70,7 +69,7 @@ Operator digunakan untuk melakukan operasi pada variabel dan nilai. Jenis operat
 
 #### Langkah Praktikum
 Buat sebuah class baru dengan nama Operator dan Jalankan program nya untuk melihat hasil.
-#### Screenshoot Hasil
+
 ![img_3.png](gambar/img_3.png)
 
 #### Latihan - LuasPersiPanjang
@@ -107,7 +106,7 @@ default:
 
 #### Langkah Praktikum
 Buat sebuah class dan beri nama Percabangan dan Jalankan program nya untuk melihat hasil.
-#### Screenshoot Hasil
+
 ![img_12.png](gambar/img_12.png)
 
 #### Latihan - GenapGanjil
@@ -139,15 +138,18 @@ do {
 
 #### Langkah Praktikum
 Buat sebuah class dengan nama Perulangan dan Jalankan program nya untuk melihat hasil.
-#### Screenshoot Hasil
+
 ![img_5.png](gambar/img_5.png)
 
 #### Latihan - GanjilFor
 ![img_6.png](gambar/img_6.png)
 
 #### Latihan - GanjilWhile
+
 ![img_7.png](gambar/img_7.png)
+
 #### Latihan - GanjilDoWhile
+
 ![img_8.png](gambar/img_8.png)
 
 #### Analisa dan Pembahasan
@@ -167,15 +169,15 @@ Practice Problem:
 
 #### Langkah Praktikum
 1. Buat sebuah class baru dan beri nama Factorial dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
-#### Screenshoot Hasil
+
 ![img_9.png](gambar/img_9.png)
 
 2. Buat sebuah class  dan beri nama Prima dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
-#### Screenshoot Hasil
+
 ![img_10.png](gambar/img_10.png)
 
 3. Buat sebuah class dan beri nama Segitiga dan isikan kode berikut. Kemudian jalankan untuk melihat hasilnya.
-#### Screenshoot Hasil
+
 ![img_11.png](gambar/img_11.png)
 
 #### Analisa dan Pembahasan
