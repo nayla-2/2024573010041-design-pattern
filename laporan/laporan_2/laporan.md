@@ -17,7 +17,7 @@ Object adalah instance dari class. Object memiliki state (nilai dari atribut) da
 
 #### Langkah Praktikum
 1. Buka project pada praktikum sebelumnya menggunakan intellij IDEA
-2. Buat sebuah package baru di dalam folder src dengan cara klik kanan pada folder src kemudian pilih New -> Package. Beri nama praktikum_2.
+2. Buat sebuah package baru di dalam folder src dengan cara klik kanan pada folder src kemudian pilih New -> Package. Beri nama Praktikum_2.
 3. Buat Sebuah package baru lagi didalam package praktikum_2  Beri nama bagian_1
 4. Kemudian buat sebuah class baru dengan nama Mahasiswa 
 5. Selanjutnya, buat sebuah class baru dengan nama Main 
