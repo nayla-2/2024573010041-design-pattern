@@ -22,7 +22,12 @@ Hal ini bertentangan dengan prinsip OCP yang menekankan bahwa penambahan fitur s
 
 #### Langkah Praktikum
 1. Buat class baru di dalam tanpa_ocp dengan nama PaymentProcessor
+
+![img.png](gambar/img.png)
+
 2. Buat class Main dan jalankan program
+
+![img_1.png](gambar/img_1.png)
 
 #### Analisa dan Pembahasan
 Pada class PaymentProcessor:
@@ -46,10 +51,24 @@ Konsep ini memungkinkan sistem lebih fleksibel dan scalable.
 
 #### Langkah Praktikum
 1. Buat sebuah interface dengan nama PaymentMethod
+
+![img_2.png](gambar/img_2.png)
+
 2. Buat sebuah class dengan nama CreditCardPayment
+
+![img_3.png](gambar/img_3.png)
+
 3. Buat sebuah class dengan nama EWalletPayment
+
+![img_4.png](gambar/img_4.png)
+
 4. Buat sebuah class dengan nama PaymentProcessor
+
+![img_5.png](gambar/img_5.png)
+
 5. Buat sebuah class Main dan jalankan program
+
+![img_6.png](gambar/img_6.png)
 
 #### Analisa dan Pembahasan
 Struktur program:
@@ -73,7 +92,12 @@ Pendekatan ini menyebabkan:
 
 #### Langkah Praktikum
 1. Buat class baru di dalam tanpa_ocp dengan nama DiscountCalculator
+
+![img_7.png](gambar/img_7.png)
+
 2. Buat class Maindan jalankan program
+
+![img_8.png](gambar/img_8.png)
 
 #### Analisa dan Pembahasan
 Masalah:
@@ -90,10 +114,24 @@ Setiap jenis diskon dibuat dalam class terpisah sehingga sistem dapat diperluas 
 
 #### Langkah Praktikum
 1. Buat sebuah interface dengan nama Discount
+
+![img_9.png](gambar/img_9.png)
+
 2. Buat sebuah class dengan nama RegularDiscount
+
+![img_10.png](gambar/img_10.png)
+
 3. Buat sebuah class dengan nama PremiumDiscount
+
+![img_11.png](gambar/img_11.png)
+
 4. Buat sebuah class dengan nama DiscountCalculator
+
+![img_12.png](gambar/img_12.png)
+
 5. Buat sebuah class Main dan jalankan program
+
+![img_13.png](gambar/img_13.png)
 
 #### Analisa dan Pembahasan
 Struktur:
@@ -115,7 +153,12 @@ Hal ini menyebabkan:
 
 #### Langkah Praktikum
 1. Buat class baru di dalam tanpa_ocp dengan nama NotificationService
+
+![img_14.png](gambar/img_14.png)
+
 2. Buat class Main dan jalankan program
+
+![img_15.png](gambar/img_15.png)
 
 #### Analisa dan Pembahasan
 Masalah:
@@ -130,10 +173,24 @@ Setiap jenis notifikasi dibuat dalam class tersendiri.
 
 #### Langkah Praktikum
 1. Buat sebuah interface dengan nama Notifier
+
+![img_16.png](gambar/img_16.png)
+
 2. Buat sebuah class dengan nama EmailNotifier
+
+![img_17.png](gambar/img_17.png)
+
 3. Buat sebuah class dengan nama SMSNotifier
+
+![img_18.png](gambar/img_18.png)
+
 4. Buat sebuah class dengan nama NotificationService
+
+![img_19.png](gambar/img_19.png)
+
 5. Buat sebuah class Main dan jalankan program
+
+![img_20.png](gambar/img_20.png)
 
 #### Analisa dan Pembahasan
 Struktur:
@@ -152,9 +209,26 @@ Program awal menggunakan kondisi berdasarkan jenis kendaraan sehingga melanggar 
 
 #### Langkah Praktikum
 1. Gunakan polimorfisme dengan membuat interface TaxStrategy.
+
+![img_21.png](gambar/img_21.png)
+
 2. Buat class CarTax dan MotorcycleTax yang mengimplementasikan TaxStrategy.
+
+![img_22.png](gambar/img_22.png)
+
+![img_23.png](gambar/img_23.png)
+
 3. Ubah TaxCalculator agar menerima strategi pajak sebagai parameter, bukan langsung menerima vehicleType.
+
+![img_24.png](gambar/img_24.png)
+
 4. Tambahkan kelas baru TruckTax (dengan pajak 15%) tanpa mengubah TaxCalculator.
+
+![img_25.png](gambar/img_25.png)
+
+5. Buat class main untuk menjalankan program dan tampilkan hasilnya
+
+![img_26.png](gambar/img_26.png)
 
 #### Analisa dan Pembahasan
 Masalah:
