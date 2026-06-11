@@ -144,7 +144,7 @@ Struktur:
 * Lebih fleksibel
 
 ## 4. Praktikum_5 - Sistem Notifikasi
-### bagian_3 - tanpa_ocp
+### bagian_1 - tanpa_ocp
 #### Dasar Teori
 Tanpa OCP, semua jenis notifikasi (email, SMS, dll) ditangani dalam satu class dengan banyak kondisi.
 Hal ini menyebabkan:
@@ -166,7 +166,7 @@ Masalah:
 * Tidak modular
 * Melanggar OCP
 
-### bagian_3 - dengan_ocp
+### bagian_1 - dengan_ocp
 #### Dasar Teori
 Dengan OCP, digunakan interface Notifier untuk memisahkan jenis notifikasi.
 Setiap jenis notifikasi dibuat dalam class tersendiri.

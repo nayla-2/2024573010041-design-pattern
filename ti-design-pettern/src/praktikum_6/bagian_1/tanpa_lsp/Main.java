@@ -1,8 +1,6 @@
-
 package praktikum_6.bagian_1.tanpa_lsp;
 
 public class Main {
-
     public static void testRectangle(Rectangle r) {
         r.setWidth(5);
         r.setHeigth(4);
@@ -14,7 +12,6 @@ public class Main {
     }
 
     public static void main(String[] args) {
-
         Rectangle rect = new Rectangle();
         testRectangle(rect);
 

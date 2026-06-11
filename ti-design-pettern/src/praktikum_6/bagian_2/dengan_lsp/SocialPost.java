@@ -1,9 +1,7 @@
 package praktikum_6.bagian_2.dengan_lsp;
 
 public class SocialPost implements Publishable {
-
     protected String content;
-
     public SocialPost(String content) {
         this.content = content;
     }
